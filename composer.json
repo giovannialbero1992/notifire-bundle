@@ -2,7 +2,7 @@
     "name": "fazland/notifire-bundle",
     "require": {
         "php": ">= 5.5",
-        "fazland/notifire": "^0.3.1",
+        "fazland/notifire": "dev-feature/sendgrid_support",
         "symfony/framework-bundle": "^2.7|^3.0"
     },
     "require-dev": {
@@ -39,6 +39,5 @@
             "dev-master": "1.0.x-dev"
         }
     },
-    "license": "MIT",
-    "minimum-stability": "stable"
+    "license": "MIT"
 }
